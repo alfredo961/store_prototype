@@ -2,15 +2,8 @@
 
 Aplicación de tienda digital
 
-## Getting Started
+## Arquitectura
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Utiliza una arquitectura de capas, la cual permite la separación de responsabilidades,
+lo que facilita el mantenimiento, la escalabilidad y pruebas de la app.
